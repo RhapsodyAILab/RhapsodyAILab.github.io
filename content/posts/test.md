@@ -1,5 +1,5 @@
 ---
-author: ["Aditya Telange"]
+author: ["Test Author"]
 title: "Test Blog"
 date: "2019-03-10"
 description: "Sample article showcasing basic code syntax and formatting for HTML elements."
