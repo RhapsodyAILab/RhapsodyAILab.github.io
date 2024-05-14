@@ -121,12 +121,9 @@ params:
 
   assets:
     disableHLJS: true
-<<<<<<< HEAD
       # favicon: "<link / abs url>"
     favicon: "jupyter.ico"
-=======
   #     favicon: "<link / abs url>"
->>>>>>> d90f87a (add blog and add more to config)
   #     favicon16x16: "<link / abs url>"
   #     favicon32x32: "<link / abs url>"
   #     apple_touch_icon: "<link / abs url>"
