@@ -47,8 +47,12 @@ params:
   # description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
   # author: Theme PaperMod
   # author: ["Me", "You"] # multiple authors
+<<<<<<< HEAD
   head: 
     siteTitle: "Bo'Log"
+=======
+
+>>>>>>> d90f87a (add blog and add more to config)
   defaultTheme: auto
   # disableThemeToggle: true
   ShowShareButtons: true
@@ -62,7 +66,11 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: true
+<<<<<<< HEAD
   # comments: true
+=======
+  # comments: false
+>>>>>>> d90f87a (add blog and add more to config)
   # images: ["images/papermod-cover.png"]
 
   profileMode:
@@ -113,8 +121,12 @@ params:
 
   assets:
     disableHLJS: true
+<<<<<<< HEAD
       # favicon: "<link / abs url>"
     favicon: "jupyter.ico"
+=======
+  #     favicon: "<link / abs url>"
+>>>>>>> d90f87a (add blog and add more to config)
   #     favicon16x16: "<link / abs url>"
   #     favicon32x32: "<link / abs url>"
   #     apple_touch_icon: "<link / abs url>"
