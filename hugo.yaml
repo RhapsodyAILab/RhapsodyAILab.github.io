@@ -86,7 +86,7 @@ params:
 
       - Currently we focus on finding more and more cases of OOD problem of vision language models, and we also probe the possible architecture of GPT4o and other state-of-the-art models.
 
-      - We are from ModelBest and OpenBMB, a large open-source community in China to reach for AGI.
+      - We are from ModelBest and OpenBMB, a large open-source community in China.
 
   socialIcons:
     - name: github
